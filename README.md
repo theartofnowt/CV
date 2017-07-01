@@ -1,4 +1,6 @@
-## Your Name
+## Michael Gordon Brown
+
+![read-me-intro](https://user-images.githubusercontent.com/25685164/27765523-6049bb02-5eab-11e7-8c2b-873e50a93432.jpg)
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
