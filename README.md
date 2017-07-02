@@ -10,7 +10,7 @@ For me, approaching coding is mentally no different to approaching sculpture, fo
 
 #### Creativity
 
-In my artistic practice, I have collaborated with clients, galleries and produced solo shows displaying my work. I have also experienced a role as an artist in residence, during which I have taught secondary school pupils how best to expand there artistic practice with some technical help too. I like to communicate, collaborate and produce fun stuff. I have been shortlisted for various competitions such as the Royal Summer exhibition and Threadneedle prize. I have had work sponsored by companies such as Rowse Honey, to whom I had to first present my idea; a piece of art, promoting awareness of the endangered honey bee, which I entitled “Honey I’m Doomed”.  Either I pitched well, or they were just extremely worried about the bees, but either way, I managed to gain their support for the project. I am no stranger to collaboration and I love being part of an ‘ideas factory’, where a group can all bounce off each other’s creativity. I was recently in a collaboration with an artist friend and we created a mobile gallery, displaying work for charity: thewhatgallery.com; as a part of this venture, we placed several porcelain sculptures of a refugee child around Oxford.
+In my artistic practice, I have collaborated with clients, galleries and produced solo shows displaying my work. I have also experienced a role as an artist in residence, during which I have taught secondary school pupils how best to expand there artistic practice with some technical help too. I like to communicate, collaborate and produce fun stuff. I have been shortlisted for various competitions such as the Royal Summer exhibition and Threadneedle prize. I have had work sponsored by companies such as Rowse Honey, to whom I had to first present my idea; a piece of art, promoting awareness of the endangered honey bee, which I entitled “Honey I’m Doomed”.  Either I pitched well, or they were just extremely worried about the bees, but either way, I managed to gain their support for the project. I am no stranger to collaboration and I love being part of an ‘ideas factory’, where a group can all bounce off each other’s creativity. I was recently in a collaboration with an artist friend and we created a mobile gallery, displaying work for charity: http://thewhatgallery.com; as a part of this venture, we placed several porcelain sculptures of a refugee child around Oxford.
 
 #### Another Skill
 
@@ -41,7 +41,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Sculptor** (2008 - 2017)    
 *Freelance sculptor* Fabricator, Blacksmith, Ceramics, Wood, Stone, Graphic Design, Illustration
-Portfolio: micahaelgbrown.co.uk, thewhatgallery.com
+Portfolio: http://micahaelgbrown.co.uk, http://thewhatgallery.com
 As a freelance Sculptor/Artist I have worked in all sorts of design related areas from client based commissions to gallery sales. I have a breadth of experience in graphic design, illustration, painting, stone, wood, marquetry, ceramics and metal forgery. I have also run school-based workshops for GCSE and A-level students.
 
 **Artist In Residence** (2014 - 2017)   
