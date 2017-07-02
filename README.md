@@ -41,7 +41,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Sculptor** (2008 - 2017)    
 *Freelance sculptor* Fabricator, Blacksmith, Ceramics, Wood, Stone, Graphic Design, Illustration
-Portfolio: http://micahaelgbrown.co.uk, http://thewhatgallery.com
+Portfolio: http://michaelgbrown.co.uk, http://thewhatgallery.com
 As a freelance Sculptor/Artist I have worked in all sorts of design related areas from client based commissions to gallery sales. I have a breadth of experience in graphic design, illustration, painting, stone, wood, marquetry, ceramics and metal forgery. I have also run school-based workshops for GCSE and A-level students.
 
 **Artist In Residence** (2014 - 2017)   
