@@ -9,7 +9,7 @@ If I had to explain my current situation, where I am in life and where I hope to
 
 For me, approaching coding is mentally no different to approaching sculpture, for example, ceramics; different clay types, kiln temperatures, different responses to certain glazes. In some respects it’s similar with coding; a varied range of languages, methods, and end products and being able to forsee what is needed to create the final outcome.
 
-<hr>
+
 
 ## Projects
 
@@ -21,8 +21,8 @@ A list of projects produced at Makers Academy (July 17 - September 17)
 |[Gorillas](https://github.com/Alexander-Blair/gorillas-game-tribute)  | A remake of the original QBasic version  |  Week 10 | JavaScipt, Sketch  | [Heroku](https://gorillas-tribute.herokuapp.com/)  |
 | [MakersBnB](https://github.com/oleglukyanov/Makersbnb)  | A mock airbnb app  |Week 6   | Ruby, Sinatra, PostgreSQL, Testing, RSpec, Capybara  | [Heroku](https://mbnb.herokuapp.com)  |
 |[Rps-challenge](https://github.com/theartofnowt/rps-challenge)| Rock Paper Scissors Game| week 3| Ruby, Sinatra, Rspec, Capybara| [Heroku](http://iloverps.herokuapp.com/)
-</div>
-<hr>
+
+
 
 ## Skills
 
@@ -30,7 +30,7 @@ A list of projects produced at Makers Academy (July 17 - September 17)
 
 In my artistic practice, I have collaborated with clients, galleries and produced solo shows displaying my work. I have also experienced a role as an artist in residence, during which I have taught secondary school pupils how best to expand there artistic practice with some technical help too. I like to communicate, collaborate and produce fun stuff. I have been shortlisted for various competitions such as the Royal Summer exhibition and Threadneedle prize. I have had work sponsored by companies such as Rowse Honey, to whom I had to first present my idea; a piece of art, promoting awareness of the endangered honey bee, which I entitled “Honey I’m Doomed”.  Either I pitched well, or they were just extremely worried about the bees, but either way, I managed to gain their support for the project. I am no stranger to collaboration and I love being part of an ‘ideas factory’, where a group can all bounce off each other’s creativity. I was recently in a collaboration with an artist friend and we created a mobile gallery, displaying work for charity: http://thewhatgallery.com; as a part of this venture, we placed several porcelain sculptures of a refugee child around Oxford.
 
-<hr>
+
 
 ## Education
 
@@ -46,7 +46,7 @@ In my artistic practice, I have collaborated with clients, galleries and produce
 #### Edinburgh College of Art (2004 - 2008)
 - BA Hons Sculpture
 
-<hr>
+
 
 ## Experience
 
@@ -66,7 +66,7 @@ To help supplement my income as an artist, I worked as an Art Technician at the 
 **Blacksmith** (2008 - 2010)
 After graduation, I wanted to develop some more metal-working skills, such as forging and blacksmithing (which remain a big hobby of mine). I worked on a castle restoration project with a master blacksmith before moving into my own studio with a forge.
 
-<hr>
+
 
 ## Interest
 
