@@ -19,8 +19,8 @@ A list of projects produced at Makers Academy (July 17 - September 17)
 |---|---|---|---|---|
 |  [Unorthoducks](https://github.com/tobold/unorthoducks) | AR game with Zombie ducks involved  | Final Project week 12  |  C#, Unity, Adobe illustrator| [Video](https://vimeo.com/235315407)  |
 |[Gorillas](https://github.com/Alexander-Blair/gorillas-game-tribute)  | A remake of the original QBasic version  |  Week 10 | JavaScipt, Sketch  | [Heroku](https://gorillas-tribute.herokuapp.com/)  |
-| [MakersBnB](https://github.com/oleglukyanov/Makersbnb)  | A mock airbnb app  |Week 6   | Ruby, Sinatra, PostgreSQL, Testing, RSpec, Capybara  | [Heroku](https://mbnb.herokuapp.com)  |
-|[Rps-challenge](https://github.com/theartofnowt/rps-challenge)| Rock Paper Scissors Game| week 3| Ruby, Sinatra, Rspec, Capybara| [Heroku](http://iloverps.herokuapp.com/)
+| [MakersBnB](https://github.com/oleglukyanov/Makersbnb)  | A mock airbnb app  |Week 6   | Ruby, Sinatra, PostgreSQL, Testing, RSpec, Capybara, HTML, JavaScript, CSS  | [Heroku](https://mbnb.herokuapp.com)  |
+|[Rps-challenge](https://github.com/theartofnowt/rps-challenge)| Rock Paper Scissors Game| week 3| Ruby, Sinatra, Rspec, Capybara, HTML, CSS, JavaScript| [Heroku](http://iloverps.herokuapp.com/)
 
 
 
@@ -30,11 +30,9 @@ A list of projects produced at Makers Academy (July 17 - September 17)
 
 In my artistic practice, I have collaborated with clients, galleries and produced solo shows displaying my work. I have also experienced a role as an artist in residence, during which I have taught secondary school pupils how best to expand there artistic practice with some technical help too. I like to communicate, collaborate and produce fun stuff. I have been shortlisted for various competitions such as the Royal Summer exhibition and Threadneedle prize. I have had work sponsored by companies such as Rowse Honey, to whom I had to first present my idea; a piece of art, promoting awareness of the endangered honey bee, which I entitled “Honey I’m Doomed”.  Either I pitched well, or they were just extremely worried about the bees, but either way, I managed to gain their support for the project. I am no stranger to collaboration and I love being part of an ‘ideas factory’, where a group can all bounce off each other’s creativity. I was recently in a collaboration with an artist friend and we created a mobile gallery, displaying work for charity: http://thewhatgallery.com; as a part of this venture, we placed several porcelain sculptures of a refugee child around Oxford.
 
-
-
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (3/07/17 22/09/17)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
