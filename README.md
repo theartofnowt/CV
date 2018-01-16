@@ -25,7 +25,7 @@ For me, approaching coding is mentally no different to approaching sculpture, fo
 * HTML, CSS, JavaScript, JQuery, Node.js, React.js, Photoshop, Illustrator, Sketch
 
 
-During my time at Makers Academy, I have been able to explore my fascination with front-end development, though the course also gave me extensive experience in the back-end development aspects. Experience of both has given me a much better understanding of how the web works, such as database theory, TDD. The course emphasised the importance of being an independent learner and since completing Makers Academy, I have been able to expand on my own projects that focus more directly on front-end skills, involving HTML, CSS, JavaScript and Jquery. To date, I have been working on an arts prints website (as I was previously a designer/illustrator) and while not finished, my progress on github can be viewed here: [repo-link](https://github.com/theartofnowt/brownpear_project). Recently, I have utilised React.js to create my own front-end profile site: [repo-link](https://github.com/theartofnowt/profile-site).
+During my time at Makers Academy, I have been able to explore my fascination with front-end development, though the course also gave me extensive experience in the back-end development aspects. Experience of both has given me a much better understanding of how the web works, such as database theory, TDD. The course emphasised the importance of being an independent learner and since completing Makers Academy, I have been able to expand on my own projects that focus more directly on front-end skills, involving HTML, CSS, JavaScript and Jquery.
 
 #### Creativity
 
@@ -46,10 +46,7 @@ In my artistic practice, I have collaborated with clients, galleries and produce
 - BA Hons Sculpture
 
 #### Mary Hare Grammar School (2004)
-- A Levels:
-  * Art: A
-  * Media Studies: B
-  * History: C
+
 
 ## Projects
 
